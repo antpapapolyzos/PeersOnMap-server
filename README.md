@@ -25,7 +25,7 @@
  - Google Maps JavaScript API 
 
 Τη στιγμή συγγραφής αυτού του οδηγού, ο server εκτελείται στο: https://peersonmap.herokuapp.com/
-![enter image description here]
+
 
 
 ## Κατασκευή του κώδικα τοπικά στον υπολογιστή σας
@@ -299,13 +299,13 @@
 
 13.Η διεύθυνση που τρέχει ο server τοπικά είναι η Διεύθυνση IPv4 που μπορεί να βρεθεί από τις Λεπτομέριες στις Συνδέσεις Δικτύου και μετά pom, π.χ.: 192.168.0.4/pom/
 14. Για να μην υπάρχει πρόβλημα απόρριψης των εισερχόμενων αιτημάτων από την εφαρμογή, ανοίξτε το αρχείο httpd.conf που βρίσκεται στον φάκελο \wamp64\bin\apache\apache2.4.17\conf και αλλάξτε το
-#   onlineoffline tag - don't remove
-Require local
+>#   onlineoffline tag - don't remove
+>  Require local
 
 σε 
 
-#   onlineoffline tag - don't remove
-Require all granted
+>#   onlineoffline tag - don't remove
+>  Require all granted
 
 
 ## Κατασκευή του κώδικα απομακρυσμένα σε πακέτο web hosting
