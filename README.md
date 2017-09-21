@@ -24,8 +24,8 @@
  - JQuery 
  - Google Maps JavaScript API 
 
-Τη στιγμή συγγραφής αυτού του οδηγού, ο server εκτελείται στο: https://peersonmap.herokuapp.com/
-
+Τη στιγμή συγγραφής αυτού του οδηγού, ο server εκτελείται στο: https://peersonmap.herokuapp.com/<br/>
+![PeersOnMap Webpage] (/PoM-server/screenshots/webpage.png)
 
 
 ## Κατασκευή του κώδικα τοπικά στον υπολογιστή σας
