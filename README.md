@@ -25,7 +25,7 @@
  - Google Maps JavaScript API 
 
 Τη στιγμή συγγραφής αυτού του οδηγού, ο server εκτελείται στο: https://peersonmap.herokuapp.com/<br/>
-![PeersOnMap Webpage](screenshots/webpage.png "PeersOnMap")
+![webpage](https://user-images.githubusercontent.com/8918882/30720326-a5ab40fc-9f2f-11e7-9f94-0376bfef9078.png)
 
 
 ## Κατασκευή του κώδικα τοπικά στον υπολογιστή σας
