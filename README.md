@@ -300,15 +300,12 @@
 
 
 13.Η διεύθυνση που τρέχει ο server τοπικά είναι η Διεύθυνση IPv4 που μπορεί να βρεθεί από τις Λεπτομέριες στις Συνδέσεις Δικτύου και μετά pom, π.χ.: 192.168.0.4/pom/<br/>
-14. Για να μην υπάρχει πρόβλημα απόρριψης των εισερχόμενων αιτημάτων από την εφαρμογή, ανοίξτε το αρχείο httpd.conf που βρίσκεται στον φάκελο \wamp64\bin\apache\apache2.4.17\conf και αλλάξτε το
->#   onlineoffline tag - don't remove
->  Require local
-
-σε 
-
->#   onlineoffline tag - don't remove
->  Require all granted
-
+14. Για να μην υπάρχει πρόβλημα απόρριψης των εισερχόμενων αιτημάτων από την εφαρμογή, ανοίξτε το αρχείο httpd.conf που βρίσκεται στον φάκελο \wamp64\bin\apache\apache2.4.17\conf και αλλάξτε το<br/>
+ onlineoffline tag - don't remove<br/>
+ Require local<br/>
+σε<br/>
+ onlineoffline tag - don't remove<br/>
+ Require all granted<br/>
 
 ## Κατασκευή του κώδικα απομακρυσμένα σε πακέτο web hosting
 
