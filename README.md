@@ -23,6 +23,7 @@
  - JavaScript
  - JQuery 
  - Google Maps JavaScript API 
+ - Google Maps Directions API
 
 Τη στιγμή συγγραφής αυτού του οδηγού, ο server εκτελείται στο: https://peersonmap.herokuapp.com/<br/>
 ![webpage](https://user-images.githubusercontent.com/8918882/30720326-a5ab40fc-9f2f-11e7-9f94-0376bfef9078.png)
